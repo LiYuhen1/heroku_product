@@ -10,9 +10,9 @@
                 <div class="column" style="height: 400px;">
                     <div class="sec1"><img src="../assets/images/Career_2.png" /></div>
                     <div class="sec2">
-                        <h2>Our platform lead the new generation of Genomic analyze</h2>
+                        <h2>Work with us to revolutionise using genetics for precision medicine</h2>
                         <p>
-                            We are seeking collaboration and/or commercial partners to further advance this opportunity towards market update. This could be in the form of licensing or a capital investment. Interested parties are highly encouraged to contact us (hyperlink) to facilitate an introductory discussion.
+                            We are seeking collaboration and/or commercial partners to further advance this opportunity towards market update. This could be in the form of licensing or a capital investment. Interested parties are highly encouraged to contact us contact@polygenrx.com to facilitate an introductory discussion.
                         </p>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     <div class="sec2">
                         <h2>We are looking for great team member to join us</h2>
                         <p>
-                            We are seeking collaboration and/or commercial partners to further advance this opportunity towards market update. This could be in the form of licensing or a capital investment. Interested parties are highly encouraged to contact us (hyperlink) to facilitate an introductory discussion.
+                            We are seeking collaboration and/or commercial partners to further advance this opportunity towards market update. This could be in the form of licensing or a capital investment. Interested parties are highly encouraged to contact us contact@polygenrx.com to facilitate an introductory discussion.
                         </p>
                     </div>
                 </div>

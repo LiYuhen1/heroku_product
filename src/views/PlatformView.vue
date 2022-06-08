@@ -218,7 +218,6 @@ export default{
   height: 300px;
 }
 .points p{
-  margin-top: 18%;
   margin-left: 8%;
 }
 .title img{

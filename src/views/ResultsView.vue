@@ -4,7 +4,7 @@
     <div class="hero">
         <NavBar/>
         <div class="herolable">
-            <div><h1>PES platform implement the most precise medicine plan</h1></div>
+            <div><h1>Accelerating precision medicine with the pharmagenic enrichment score platform</h1></div>
         </div>
     </div>
 

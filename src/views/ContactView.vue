@@ -2,7 +2,7 @@
     <div class="contactUs">
         <div class="hero">
             <NavBar />
-            <div><h1>Get in touch with Us and know more about Our team and projects</h1></div>
+            <div><h1>Contact us to learn more about our platform</h1></div>
         </div>
         <div class="content">
             <h1>Contact Us</h1>
@@ -14,7 +14,7 @@
                     <h2>Location</h2>
                     <p>Newcastle, NSW, Australia</p>
                 </div>
-                <div class="sec2"><img src="../assets/images/Contact_2.png" /></div>
+                <div class="sec2"><img src="../assets/images/NewcastleBeach.png" /></div>
             </div>
         </div>
         <div class="footer">
@@ -63,7 +63,8 @@ export default{
     width: 30%;
     text-align: left;
 }
+.sec2 {width: 50%;}
 .sec2 img{
-    width: 70%;
+    width: 100%;
 }
 </style>
